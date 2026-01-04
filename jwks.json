@@ -3,7 +3,6 @@
     {
       "kty": "RSA",
       "use": "sig",
-      "alg": "RS256",
       "kid": "84a649110d4bef4f",
       "n": "3OZq1Ehr0ijjMJuC4OpCPf46pnc2PJe-mivvy9ye4UyNa16bwnieGuh67Ed9KIGhnG2NDGXsuHGQvO_9Wr4EA4kZxPTMEjy_Q-71uiagIoWVUrJ3U3mWBdSxAPnstMtSBpTSC1w9D4rodBLZx9a7eTslDI9tSWmSdq-UPtACuRrVHd44Fda7d0Oi6C9QVkMxlodo2gSB7xET2io3CFVzDynYVirRSfzAnzVzCf16EJ8TxSoDY30fRLnA7IPyCyB-uNGVLQpXf_PX4F1uPEPmwetGBdmYXnxhd9x0Vai2bRxkMzbinrFZEhn1amB5GtSj2yN0n20E8Mlf0PXQCSRlew",
       "e": "AQAB"
